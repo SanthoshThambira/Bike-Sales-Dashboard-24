@@ -14,4 +14,5 @@ Dataset: Bike sales with customer attributes - ID, Marital Status, Gender, Incom
 
 </body>
 </html>
-<img src="https://drive.google.com/file/d/1g_A4BI9MX-6_Et2V0M8QxVpuZiNPUZxM/view?usp=drive_link"  style="width:100%; max-width:800px;">
+![Alt Text](https://drive.google.com/file/d/1g_A4BI9MX-6_Et2V0M8QxVpuZiNPUZxM/view?usp=drive_link)
+
