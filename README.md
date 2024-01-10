@@ -14,4 +14,4 @@ Dataset: Bike sales with customer attributes - ID, Marital Status, Gender, Incom
 
 </body>
 </html>
-<img src="https://drive.google.com/file/d/1g_A4BI9MX-6_Et2V0M8QxVpuZiNPUZxM/view?usp=drive_link" alt="Bike sale Analysis Image" style="width:100%; max-width:800px;">
+<img src="https://drive.google.com/uc?id=1yuieVm3S0SDZr0PS3P-P8dyr8xhOaSAT" alt="Vrinda Store Analysis Image" style="width:100%; max-width:800px;">
